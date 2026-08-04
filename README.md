@@ -180,8 +180,8 @@ MIT — use freely, develop, share.
 - 📚 **Book (PDF):** [notebookastana.gumroad.com/l/claude-flights-book](https://notebookastana.gumroad.com/l/claude-flights-book)
 - 🐙 **GitHub:** [@notebookastana](https://github.com/notebookastana)
 - 🛒 **Gumroad:** [notebookastana.gumroad.com](https://notebookastana.gumroad.com)
-- 📝 **Letters (RU):** [github.com/notebookastana/letters](https://github.com/notebookastana/letters)
-- 📝 **Letters (EN):** [github.com/notebookastana/letters-en](https://github.com/notebookastana/letters-en)
+- 📝 **Letters (RU):** [github.com/notebookastana/letters](https://github.com/notebookastana/letters_ru)
+- 📝 **Letters (EN):** [github.com/notebookastana/letters-en](https://github.com/notebookastana/letters_en)
 
 ---
 
